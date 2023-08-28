@@ -1,3 +1,11 @@
+# Title: ChairEase - Your Ultimate Chair Shopping Experience
+
+# Description
+ChairEase is a cutting-edge e-commerce application designed to revolutionize the way you shop for chairs. Built using the powerful Flutter framework and enhanced with the efficient state management capabilities of GetX, ChairEase offers a seamless and intuitive platform for users to explore, customize, and purchase their ideal chairs.
+
+## Screenshot 📷
+<img src="dig.png" width=500px/>  
+
 # ecomapp
 
 A new Flutter project.
